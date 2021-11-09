@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../test"
+		},
+		{
+			"path": "../../dayOne/myapp"
+		},
+		{
+			"path": "../../../my-app"
+		},
+		{
+			"path": "../../server"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
